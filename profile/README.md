@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of our projects are available at [https://sparrowsystemsug.com/](https://sparrowsystemsug.com/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Us:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sparrow-systems-97b5573a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparrow systems" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Sparrow-Systems-UG/61559004950543/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sparrow systems ug" height="30" width="40" /></a>
