@@ -3,7 +3,7 @@
 
 - 🔭 We’re currently working on **A Virtual Reality experience**
 
-- 👨‍💻 All of my projects are available at [https://sparrowsystemsug.com/](https://sparrowsystemsug.com/)
+- 👨‍💻 All of our projects are available at [https://sparrowsystemsug.com/](https://sparrowsystemsug.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
